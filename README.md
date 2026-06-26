@@ -21,7 +21,7 @@ The application collects information about subjects, attendance, marks, and prog
 
 ---
 
-## Technologies Used
+## Concepts & Technologies Used
 
 - C++
 - Object-oriented programming concepts using structures
